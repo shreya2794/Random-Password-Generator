@@ -19,20 +19,20 @@ This Python script generates strong, secure, and easy-to-remember passwords by a
    - Includes one digit and one special character
 3. The final password is printed to the console.
 
-#### Requirements
+### Requirements
 
 - Python 3.x
 
-#### Running the Script
+### Running the Script
 
 python rpg.py
 
-#### Sample Output
+### Sample Output
 
 Enter the length of the password (at least 6): 10
 Your password is: Lopeki3!
 
-####  Example Rules Followed in Generated Passwords
+###  Example Rules Followed in Generated Passwords
 
 1. Pronounceable: Alternating consonants and vowels
 2. Secure:
@@ -40,16 +40,16 @@ Your password is: Lopeki3!
  -Includes at least one number
  -Contains a symbol from !@#$%^&*
 
-#### File Structure
+### File Structure
 
 password_generator.py     # Main script
 README.md                 # Project documentation
 
-#### ⚠️ Notes
+### ⚠️ Notes
 
 - Minimum password length is 6 characters.
 - Randomness means different output on each run.
 
-#### 📄 License
+### 📄 License
 
 This project is open source and free to use.
