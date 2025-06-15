@@ -32,14 +32,6 @@ python rpg.py
 Enter the length of the password (at least 6): 10
 Your password is: Lopeki3!
 
-###  Example Rules Followed in Generated Passwords
-
-1. Pronounceable: Alternating consonants and vowels
-2. Secure:
- -Contains lowercase and uppercase letters
- -Includes at least one number
- -Contains a symbol from !@#$%^&*
-
 ### File Structure
 
 password_generator.py     # Main script
